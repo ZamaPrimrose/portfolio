@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Salon App",
+    "imageSrc": "projects/salon.jpg",
+    "description": "A sleek web & mobile app for managing salon bookings and services — built to level up my skills using modern technologies.",
+    "skills": ["PHP", "JavaScript", "CSS", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/InnocentMndexy/Salon-app"
+  },
+  {
+    "title": "Ai-Chatbot",
+    "imageSrc": "projects/chat.png",
+    "description": "A real-time chat app with a sleek interface — built to practice frontend development and real-time communication. ",
+    "skills": ["JavaScript", "html", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ZamaPrimrose/Ai-Chatbot.git"
+  },
+  {
+    "title": "Hotel Booking App",
+    "imageSrc": "projects/hotel.jpg",
+    "description": " modern web & mobile-friendly app for browsing hotels, checking availability, and making bookings — built to sharpen my full-stack development skills.",
+    "skills": ["React", "Express", "Node","CSS", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Web App",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal website built to showcase my projects, skills, and experience as a developer. It features a clean, responsive design, smooth navigation, and a contact form. This project demonstrates my ability to create a professional and user-friendly online presence using HTML, CSS, JavaScript, and React.",
+    "skills": ["React", "Express", "Node","CSS", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/InnocentMndexy/Portfolio/tree/main/Portfolio"
+  }
+]

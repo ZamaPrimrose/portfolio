@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "ZA WIT Pty Ltd",
+    "startDate": "Nov 2024 ",
+    "endDate": "February 2025",
+    "experiences": ["Built and maintained applications using C#, ORM frameworks, and ASP.NET Web API."
+                  , "Developed and consumed RESTful APIs as part of backend service integration."
+                  , "Collaborated on projects through tasks like debugging, testing, and version control."
+                  , "Strengthened skills in backend development, object-oriented programming, and team collaboration."],
+    "imageSrc": "history/zawit.jpeg"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Capaciti",
+    "startDate": "April, 2022",
+    "endDate": "Present",
+    "experiences": ["Developed responsive web interfaces using React.js and built cross-platform mobile apps using React Native.", 
+                  "Participated in full development cycles: coding, debugging, and code reviews.",
+                  "Improved JavaScript and component-based development skills through hands-on collaboration with the dev team.",
+                  "Gained practical experience in mobile-first design and modern frontend architecture."],
+    "imageSrc": "history/capaciti.png"
+  }
+  
+]
