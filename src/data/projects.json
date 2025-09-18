@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sentiment",
+     "imageSrc": "projects/chat.png",
+    "description": "A sleek web & mobile app  and the app will analyze the emotional tone—whether it's positive, negative, or neutral.",
+    "skills": ["html", "JavaScript", "CSS"],
+    "demo": "http://localhost:54433/index.html?phcodeLivePreview=true",
+    "source": "https://github.com/ZamaPrimrose/Sentiment.git"
+  },
+  {
+    "title": "Ai-Chatbot",
+    "imageSrc": "projects/chat.png",
+    "description": "A real-time chat app with a sleek interface — built to practice frontend development and real-time communication. ",
+    "skills": ["JavaScript", "html", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ZamaPrimrose/Ai-Chatbot.git"
+  },
+  
+  {
+    "title": "Portfolio ",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal website built to showcase my projects, skills, and experience as a developer. It features a clean, responsive design, smooth navigation, and a contact form. This project demonstrates my ability to create a professional and user-friendly online presence using HTML, CSS, JavaScript, and React.",
+    "skills": ["React", "Express", "Node","CSS", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ZamaPrimrose/portfolio.git"
+  }
+]
