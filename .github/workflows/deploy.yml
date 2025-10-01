@@ -11,6 +11,9 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
+    - name: Debug - List files
+      run: ls -la
+    
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
@@ -20,8 +23,24 @@ jobs:
     - name: Install dependencies
       run: npm install
       
+    - name: Debug - Check Node and NPM versions
+      run: |
+        node --version
+        npm --version
+      
     - name: Build project
       run: npm run build
+      
+    - name: Debug - Check if dist directory exists after build
+      run: |
+        ls -la
+        if [ -d "dist" ]; then
+          echo "Dist directory exists"
+          ls -la dist/
+        else
+          echo "Dist directory does not exist - build may have failed"
+          ls -la
+        fi
       
     - name: Setup Pages
       uses: actions/configure-pages@v4
